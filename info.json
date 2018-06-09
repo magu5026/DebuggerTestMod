@@ -1,0 +1,9 @@
+{
+	"name": "DebuggerTestMod",
+	"author": "magu5026",
+	"version": "0.16.1",
+	"title": "Debugger Test Mod",
+	"description":"Debugger Test Mod",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.0"]
+}
